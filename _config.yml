@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
-title: GitHub pages template
-description: A simple template based on minimal jekyll theme
+title: Sean Ng
+description: Data Analysis in Emergencies
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Setup
+  - title: setup
+    url: setup
+  - title: 5W
     url: setup
