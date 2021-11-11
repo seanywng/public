@@ -1,5 +1,5 @@
 # website
-(https://seanywng.github.io/public/)
+https://seanywng.github.io/public/
 
 # gh-pages-template
 A GitHub pages template based on [minimal Jekyll theme.](https://github.com/pages-themes/minimal)
